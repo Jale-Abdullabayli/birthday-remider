@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/birthday-remider/static/css/main.3054fb6f.chunk.css",
+    "main.js": "/birthday-remider/static/js/main.0932cfbb.chunk.js",
+    "main.js.map": "/birthday-remider/static/js/main.0932cfbb.chunk.js.map",
+    "runtime-main.js": "/birthday-remider/static/js/runtime-main.873cd6e1.js",
+    "runtime-main.js.map": "/birthday-remider/static/js/runtime-main.873cd6e1.js.map",
+    "static/js/2.f0b8deac.chunk.js": "/birthday-remider/static/js/2.f0b8deac.chunk.js",
+    "static/js/2.f0b8deac.chunk.js.map": "/birthday-remider/static/js/2.f0b8deac.chunk.js.map",
+    "static/js/3.01490fdc.chunk.js": "/birthday-remider/static/js/3.01490fdc.chunk.js",
+    "static/js/3.01490fdc.chunk.js.map": "/birthday-remider/static/js/3.01490fdc.chunk.js.map",
+    "index.html": "/birthday-remider/index.html",
+    "static/css/main.3054fb6f.chunk.css.map": "/birthday-remider/static/css/main.3054fb6f.chunk.css.map",
+    "static/js/2.f0b8deac.chunk.js.LICENSE.txt": "/birthday-remider/static/js/2.f0b8deac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.873cd6e1.js",
+    "static/js/2.f0b8deac.chunk.js",
+    "static/css/main.3054fb6f.chunk.css",
+    "static/js/main.0932cfbb.chunk.js"
+  ]
+}
